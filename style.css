@@ -1,0 +1,14 @@
+/**/
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin: 20px;
+}
+/**/
+.grid-item {
+    margin: 20px;
+    font-size: 20px;
+    font-family: cursive;
+    text-align: center;
+    border-bottom: 1px solid #4682b4;
+}
